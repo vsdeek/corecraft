@@ -1,4 +1,4 @@
-# Minecraft, but I made it in 48 hours*
+# corecraft*
 
 \* I've actually updated it since - [corecraft](https://github.com/jdah/minecraft-weekend/tree/cb19738305804b5734faa7118c1c784f26ff9463).
 
